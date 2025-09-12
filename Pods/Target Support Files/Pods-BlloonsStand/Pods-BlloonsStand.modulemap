@@ -1,0 +1,6 @@
+framework module Pods_BlloonsStand {
+  umbrella header "Pods-BlloonsStand-umbrella.h"
+
+  export *
+  module * { export * }
+}
